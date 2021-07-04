@@ -62,3 +62,17 @@ p{
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
 }
+#web-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+}
+#baby-web-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    color: #696969;
+}
